@@ -1,81 +1,81 @@
+
 # 📥 devscroll-contributions
 
-Este repositório é o canal oficial de **contribuições abertas** para a organização [devscroll](https://github.com/devscroll).
+This repository is the official channel for **open contributions** to the [devscroll](https://github.com/devscroll) organization.
 
-Aqui, você pode propor **exercícios**, **materiais didáticos**, **desafios práticos** ou qualquer conteúdo educativo relacionado à programação e desenvolvimento de software.
-
----
-
-## 🤔 Como funciona?
-
-Este repositório funciona como um **ponto de envio**. Você abre um Pull Request (PR) com a sua contribuição, e a equipe da devscroll irá revisar, sugerir melhorias (se necessário) e, se aprovado, o conteúdo será movido para o repositório final adequado da organização.
+Here, you can propose **exercises**, **educational materials**, **practical challenges**, or any other educational content related to programming and software development.
 
 ---
 
-## 🚀 Como contribuir
+## 🤔 How it works?
 
-### 1. **Fork este repositório**
-Clique em `Fork` no canto superior direito da página.
+This repository serves as a **submission point**. You create a Pull Request (PR) with your contribution, and the devscroll team will review it, suggest improvements (if necessary), and if approved, the content will be moved to the appropriate final repository within the organization.
 
-### 2. **Adicione seus arquivos**
-Organize seu conteúdo dentro de uma pasta relevante:
+---
+
+## 🚀 How to contribute
+
+### 1. **Fork this repository**  
+Click on `Fork` in the top-right corner of the page.
+
+### 2. **Add your files**  
+Organize your content into a relevant folder:
 
 ```
 
-📁 exercicios/
+📁 exercises/
 └── python/
-    └── listas_basicas.md
+    └── basic_lists.md
 
-📁 materiais/
+📁 materials/
 └── javascript/
-    └── eventos_intro.md
+    └── intro_events.md
 
-📁 desafios/
+📁 challenges/
  └── flutter/
-    └── clone_interface_login.md
+    └── login_interface_clone.md
 ```
 
-### 3. **Abra um Pull Request**
-- Use o [template de PR](./.github/pull_request_template.md)
-- Descreva claramente o conteúdo, o tema e a utilidade.
+### 3. **Open a Pull Request**  
+- Use the [PR template](./.github/pull_request_template.md)
+- Clearly describe the content, topic, and usefulness.
 
 ---
 
-## 🗂️ Estrutura sugerida
+## 🗂️ Suggested structure
 
-- `exercicios/`: listas de exercícios com ou sem gabarito / exercicios feitos com enunciado
-- `materiais/`: apostilas, tutoriais, explicações teóricas
-- `desafios/`: propostas de projetos ou exercícios práticos maiores
-- `outros/`: qualquer conteúdo que não se encaixe nas categorias acima
+- `exercises/`: lists of exercises with or without solutions / exercises with the problem statement
+- `materials/`: tutorials, theoretical explanations
+- `challenges/`: proposals for bigger practical projects or exercises
+- `others/`: any content that doesn't fit the above categories
 
-  ### **Importante**
-  **Caso a contribuição seja o exercício já concluido, o mesmo DEVE ter o enunciado acima como comentário**
-
----
-
-## 🧠 Exemplos de contribuição
-
-- ✅ Exercícios básicos de Python com listas
-- ✅ Tutorial de Git e GitHub para iniciantes
-- ✅ Desafio: recriar interface do Spotify com HTML/CSS
+  ### **Important**  
+  If your contribution is a completed exercise, **the problem statement must be included as a comment above the solution**.
 
 ---
 
-## 📌 Regras básicas
+## 🧠 Examples of contributions
 
-- Envie apenas conteúdos autorais ou com licença aberta (CC, MIT, etc)
-- Siga a estrutura e formatação sugeridas
-- Todos os envios estão sujeitos a revisão antes da publicação final
-- Seja respeitoso e acolhedor — devscroll é uma comunidade de aprendizado
-- Novamente, não esqueça do enunciado nos exercícios
+- ✅ Basic Python exercises with lists
+- ✅ Beginner's tutorial for Git and GitHub
+- ✅ Challenge: recreate the Spotify interface using HTML/CSS
 
 ---
 
-## 💬 Dúvidas ou sugestões?
+## 📌 Basic rules
 
-Você pode abrir uma **Issue** neste repositório caso tenha alguma dúvida em relação aos envios.
+- Only submit original content or content with an open license (CC, MIT, etc.)
+- Follow the suggested structure and formatting
+- All submissions are subject to review before final publication
+- Be respectful and welcoming — devscroll is a learning community
+- Again, don't forget the problem statement in exercises
 
 ---
 
-> Criado com 💙 para educadores, estudantes e desenvolvedores que acreditam no poder do compartilhamento.
+## 💬 Questions or suggestions?
 
+You can open an **Issue** in this repository if you have any questions regarding the submissions.
+
+---
+
+> Created with 💙 for educators, students, and developers who believe in the power of sharing.
