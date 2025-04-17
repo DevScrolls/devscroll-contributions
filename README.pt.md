@@ -22,12 +22,20 @@ Clique em `Fork` no canto superior direito da página.
 ### 2. **Adicione seus arquivos**
 Organize seu conteúdo dentro de uma pasta relevante:
 
-📁 exercicios/ └── python/ └── listas_basicas.md
+```
 
-📁 materiais/ └── javascript/ └── eventos_intro.md
+📁 exercicios/
+└── python/
+    └── listas_basicas.md
 
-📁 desafios/ └── flutter/ └── clone_interface_login.md
+📁 materiais/
+└── javascript/
+    └── eventos_intro.md
 
+📁 desafios/
+ └── flutter/
+    └── clone_interface_login.md
+```
 
 ### 3. **Abra um Pull Request**
 - Use o [template de PR](./.github/pull_request_template.md)
