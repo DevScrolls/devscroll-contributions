@@ -1,5 +1,3 @@
-# devscroll-contributions
-Repositório Principal para Contribuição de XP | Main Repository for XP Contribution
 # 📥 devscroll-contributions
 
 Este repositório é o canal oficial de **contribuições abertas** para a organização [devscroll](https://github.com/devscroll).
@@ -22,12 +20,20 @@ Clique em `Fork` no canto superior direito da página.
 ### 2. **Adicione seus arquivos**
 Organize seu conteúdo dentro de uma pasta relevante:
 
-📁 exercicios/ └── python/ └── listas_basicas.md
+```
 
-📁 materiais/ └── javascript/ └── eventos_intro.md
+📁 exercicios/
+└── python/
+    └── listas_basicas.md
 
-📁 desafios/ └── flutter/ └── clone_interface_login.md
+📁 materiais/
+└── javascript/
+    └── eventos_intro.md
 
+📁 desafios/
+ └── flutter/
+    └── clone_interface_login.md
+```
 
 ### 3. **Abra um Pull Request**
 - Use o [template de PR](./.github/pull_request_template.md)
@@ -72,5 +78,4 @@ Você pode abrir uma **Issue** neste repositório caso tenha alguma dúvida em r
 ---
 
 > Criado com 💙 para educadores, estudantes e desenvolvedores que acreditam no poder do compartilhamento.
-
 
